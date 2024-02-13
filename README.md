@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Alfonso Vidrio</h1>
-  <h4>- 💻 Actualmente enfocado en aprender y mejorar mis habilidades en tecnologías web y Android.</h4>
+  <h4>- 💻 Actualmente enfocado en aprender y mejorar mis habilidades en tecnologías web.</h4>
   <h4>- 📚 Estudiante de ingeniería en computación.</h4>
 </div>
 
@@ -25,7 +25,6 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>                  
   <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>            
   <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>   
-  <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
