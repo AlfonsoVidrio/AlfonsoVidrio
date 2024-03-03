@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Alfonso Vidrio</h1>
+  <h1>Hola, Soy Alfonso Vidrio</h1>
   <h4>- 💻 Actualmente enfocado en aprender y mejorar mis habilidades en tecnologías web.</h4>
   <h4>- 📚 Estudiante de ingeniería en computación.</h4>
 </div>
