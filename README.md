@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Hola, Soy Alfonso Vidrio</h1>
-  <h4>- 📚 Estudiante de ingeniería en computación.</h4>
+  <h1>¡Hola! Soy Alfonso.</h1>
+  <h4>📚 Estudiante de Ingeniería en Computación.</h4>
+
+<p>¡Bienvenidos a mi GitHub! Soy estudiante de Ingeniería en Computación con un gran interés en la programación y el desarrollo web.</p>
 </div>
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
