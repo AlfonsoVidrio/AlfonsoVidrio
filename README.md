@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hola, Soy Alfonso Vidrio</h1>
-  <h4>- 💻 Actualmente enfocado en aprender y mejorar mis habilidades en tecnologías web.</h4>
   <h4>- 📚 Estudiante de ingeniería en computación.</h4>
 </div>
 
