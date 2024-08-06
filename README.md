@@ -26,6 +26,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
