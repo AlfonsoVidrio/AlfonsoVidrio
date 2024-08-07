@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Alfonso Vidrio</h1>
-  <p>¡Bienvenidos a mi GitHub! Soy estudiante de Ingeniería en Computación con un gran interés en la programación y el desarrollo web.</p>
+  <p>¡Bienvenidos a mi GitHub! Soy un Ingeniero en Computación con un gran interés en la programación y el desarrollo web.</p>
 </div>
 
 <div align="center">
