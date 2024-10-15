@@ -52,6 +52,10 @@ Algunas de las tecnologías que manejo son:
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="https://www.java.com/es/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://www.arduino.cc" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   </a>
