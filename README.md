@@ -71,3 +71,7 @@ Algunas de las tecnologías que manejo son:
 - Correo Electrónico: [alfonsovidrio18@gmail.com](mailto:alfonsovidrio18@gmail.com)
 
 ¡Gracias por visitar mi perfil!
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@alfonsovi51220/30-nites-of-code)  
+  ![@alfonsovi51220 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alfonsovi51220)
