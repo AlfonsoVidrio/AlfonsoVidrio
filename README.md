@@ -34,9 +34,6 @@ Estas son algunas de las herramientas y lenguajes con los que tengo experiencia:
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;
   <a href="https://www.java.com/es/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>&nbsp;
