@@ -1,7 +1,12 @@
-<div align="center">
-  <h1>¡Hola! Soy Alfonso Vidrio</h1>
-  <p>¡Bienvenidos a mi perfil de GitHub! Soy Ingeniero en Computación, apasionado por la programación y el desarrollo web.</p>
-</div>
+
+ <div>
+    <h1>¡Hola! Soy Alfonso Vidrio</h1>
+    <p>¡Bienvenidos a mi perfil de GitHub!<br>
+    Soy Ingeniero en Computación, apasionado por la programación y el desarrollo web. Siempre busco nuevos desafíos para seguir aprendiendo y creciendo como desarrollador. En este espacio, podrás explorar algunos de mis proyectos más recientes. ¡Espero que disfrutes descubriendo mi trabajo!</p>
+  </div>
+
+
+
 
 <div align="center">
   <a href="#">
@@ -15,7 +20,7 @@
 
 Estas son algunas de las herramientas y lenguajes con los que tengo experiencia:
 
-<p align="center">
+<p>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
   </a>&nbsp;
@@ -51,6 +56,11 @@ Estas son algunas de las herramientas y lenguajes con los que tengo experiencia:
   </a>&nbsp;
 </p>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoVidrio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfonsoVidrio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <hr/>
 
 ## 📫 Contáctame
@@ -59,6 +69,5 @@ Si tienes alguna pregunta, comentario o propuesta de colaboración, no dudes en 
 
 - [LinkedIn](https://www.linkedin.com/in/alfonsomanuelvidriolizaola/)
 - [alfonsovidrio18@gmail.com](mailto:alfonsovidrio18@gmail.com)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/AlfonsoVidrio)
 
 ¡Gracias por visitar mi perfil! 🙌
