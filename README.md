@@ -1,12 +1,8 @@
-
- <div>
-    <h1>¡Hola! Soy Alfonso Vidrio</h1>
-    <p>¡Bienvenidos a mi perfil de GitHub!<br>
-    Soy Ingeniero en Computación, apasionado por la programación y el desarrollo web. Siempre busco nuevos desafíos para seguir aprendiendo y creciendo como desarrollador. En este espacio, podrás explorar algunos de mis proyectos más recientes. ¡Espero que disfrutes descubriendo mi trabajo!</p>
-  </div>
-
-
-
+<div>
+    <h1>Hello! I'm Alfonso Vidrio</h1>
+    <p>Welcome to my GitHub profile!<br>
+    I'm a Computer Engineer passionate about programming and web development. I'm always looking for new challenges to keep learning and growing as a developer. In this space, you can explore some of my latest projects.<br> I hope you enjoy discovering my work!</p>
+</div>
 
 <div align="center">
   <a href="#">
@@ -16,9 +12,9 @@
 
 <hr/>
 
-## 🚀 Tecnologías que manejo
+## 🚀 Technologies I Use
 
-Estas son algunas de las herramientas y lenguajes con los que tengo experiencia:
+Here are some of the tools and languages I'm experienced with:
 
 <p>
   <a href="https://www.w3.org/html/" target="_blank">
@@ -63,11 +59,11 @@ Estas son algunas de las herramientas y lenguajes con los que tengo experiencia:
 
 <hr/>
 
-## 📫 Contáctame
+## 📫 Contact Me
 
-Si tienes alguna pregunta, comentario o propuesta de colaboración, no dudes en contactarme:
+If you have any questions, comments, or collaboration proposals, feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/alfonsomanuelvidriolizaola/)
 - [alfonsovidrio18@gmail.com](mailto:alfonsovidrio18@gmail.com)
 
-¡Gracias por visitar mi perfil! 🙌
+Thanks for visiting my profile! 🙌
