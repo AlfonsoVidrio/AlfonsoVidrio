@@ -1,7 +1,11 @@
+![👋 Hi, my name is Esdras de la Torre](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=AlfonsoVidrio&label=Profile%20views&color=0e75b6&style=flat)
 <div>
     <h1>Hello! I'm Alfonso Vidrio</h1>
     <p>Welcome to my GitHub profile!<br>
     I'm a Computer Engineer passionate about programming and web development. I'm always looking for new challenges to keep learning and growing as a developer. In this space, you can explore some of my latest projects.<br> I hope you enjoy discovering my work!</p>
+    
 </div>
 
 <div align="center">
