@@ -23,37 +23,37 @@ Here are some of the tools and languages I'm experienced with:
 <p>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://nodejs.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://www.java.com/es/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://spring.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+  </a>&emsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
   <a href="https://www.arduino.cc" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  </a>&nbsp;
+  </a>&emsp;
 </p>
 
 <div>
