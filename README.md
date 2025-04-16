@@ -1,4 +1,4 @@
-![👋 Hi, my name is Esdras de la Torre](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![banner](https://github.com/user-attachments/assets/f5070249-5072-46e8-9a1c-013846fd0c57)
 
 ![Profile views](https://komarev.com/ghpvc/?username=AlfonsoVidrio&label=Profile%20views&color=0e75b6&style=flat)
 <div>
