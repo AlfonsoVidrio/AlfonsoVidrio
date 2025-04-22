@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/f5070249-5072-46e8-9a1c-013846fd0c57)
+![banner](https://github.com/user-attachments/assets/6ea08ed6-ebe4-4f2e-aef9-4c3d87e89f75)
 
 ![Profile views](https://komarev.com/ghpvc/?username=AlfonsoVidrio&label=Profile%20views&color=0e75b6&style=flat)
 <div>
