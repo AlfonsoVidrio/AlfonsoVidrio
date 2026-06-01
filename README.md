@@ -58,7 +58,11 @@ Here are some of the tools and languages I'm experienced with:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfonsoVidrio&theme=dracula" alt="Profile Details" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlfonsoVidrio&theme=dracula" alt="Stats" />
+  &ensp;&ensp;&ensp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlfonsoVidrio&theme=dracula" alt="Repos per Language" />
 </div>
 
