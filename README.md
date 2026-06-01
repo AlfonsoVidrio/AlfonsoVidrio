@@ -56,9 +56,11 @@ Here are some of the tools and languages I'm experienced with:
   </a>&emsp;
 </p>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoVidrio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfonsoVidrio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfonsoVidrio&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlfonsoVidrio&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlfonsoVidrio&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfonsoVidrio&theme=dracula" alt="Most Commit Language" />
 </div>
 
 <hr/>
