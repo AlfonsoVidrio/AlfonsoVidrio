@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake">
+    <img src="assets/grid-snake.svg" alt="Snake Animation">
   </a>
 </div>
 
